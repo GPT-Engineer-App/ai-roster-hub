@@ -1,0 +1,37 @@
+# ai-roster-hub
+
+A SLEEK PRODUCTHUNT.COM, APPSUMO CLONED STYLE PLATFORM THAT SHOWCASE POPULAR AI WEBAPAPS, SOFTWARE, NEWSLETTERS, ETC. BLACK BACKGROUND, ADD 12 ROUND EDGED GRID CARDS THAT'S BLACK WITH PURPLE BORDERLINES OUTLINE AROUND EACH GRID CARDS. ADD THE AVATAR IMAGE OF THE COMPANY LOGO, THE NAME OF THE APP AND URL LINK TO THE APP. ADD A BOOKMARK ICON AT THE BOTTOM RIGHT CORNER OF EACH ROUND EDGED BLACK GRID CARDS. ADD A SIDE SKINNY NAV BAR ON THE LEFT WHICH WILL SHOWCASE THE "SPONSORED" APP INFORMATION, THE MAIN SECTION OF THE DIRECTORY WITH HAVE A LARGE, WIDE, LONG SEARCH BAR THAT IS BLACK WITH A PURPLE BORDERLINE AROUND IT, UNDER THE LARGE SEARCH BAR WITH SHOWCASE DIFFERENT AI APP CATEGORIES JUST LIKE PRODUCTHUNT.COM AND APPSUMO. THE TOP HEADER OF THE PLATFORM SHOULD BE DARK GREY, ADD LOGO OR ICON IN MIDDLE, ON RIGHT OF HEADER NAV MENU BAR SHOULD CONTAIN BLACK ROUND BUTTONS WITH PURPLE OUTLINE AROUND BUTTONS, ADD THE WORD "ADD MY APP", "SIGN IN" AND "SIGN UP" BUTTONS. THE TITE OF THE PLATFORM IS CALLED "THE AI ROSTER". VERY LARGE, FONT SIZE=36, FONT COLOR WHITE, FONT =ALATA  , ENSURE THE TITLE ISS UNDER THE HEADER NAV BAR.
+
+## Collaborate with GPT Engineer
+
+This is a [gptengineer.app](https://gptengineer.app)-synced repository 🌟🤖
+
+Changes made via gptengineer.app will be committed to this repo.
+
+If you clone this repo and push changes, you will have them reflected in the GPT Engineer UI.
+
+## Tech stack
+
+This project is built with React and Tailwind CSS.
+
+- Vite
+- React
+- Tailwind CSS
+
+## Setup
+
+```sh
+git clone https://github.com/GPT-Engineer-App/ai-roster-hub.git
+cd ai-roster-hub
+npm i
+```
+
+```sh
+npm run dev
+```
+
+This will run a dev server with auto reloading and an instant preview.
+
+## Requirements
+
+- Node.js & npm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
